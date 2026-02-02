@@ -1,2 +1,3 @@
-# uc02-backlog-roadmap
-UC02 Backlog &amp; Roadmap
+# UC02 Backlog & Roadmap
+
+Use case repo for UC02 Backlog & Roadmap.
